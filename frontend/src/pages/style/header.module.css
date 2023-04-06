@@ -1,0 +1,23 @@
+.head {
+  background-color: #07644fc7;
+    height: 75px;
+    margin-bottom: 25px;
+    max-width: 100%;
+    box-sizing: border-box;
+    position: sticky;
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.but {
+  padding: 7px;
+  background-color: #2bb79df2;
+  color: white;
+  margin-right: 15px;
+  font-size: 13px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
